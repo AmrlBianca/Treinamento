@@ -10,4 +10,4 @@ def imprime_impares(n):
 
 if __name__ == '__main__':
     imprime_pares(10)
-    
+    #nova linha simulação
